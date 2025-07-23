@@ -5,7 +5,7 @@ This template should help get you started developing with Tauri, SvelteKit and T
 
 ```bash
 # Template created! To get started run:
-  cd nest-egg
+  cd luna
   bun install
   bun run tauri android init
   bun run tauri ios init
